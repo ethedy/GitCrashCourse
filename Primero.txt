@@ -1,3 +1,5 @@
 Bienvenido al crash course de GIT
 
 Modificamos para C2
+
+Agregado para la rama alternativa
