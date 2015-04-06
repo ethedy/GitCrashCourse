@@ -2,6 +2,6 @@ Bienvenido al crash course de GIT
 
 Modificamos para C2
 
+Agregado para la rama alternativa
 C3 dentro de master
-
 Cambio local en crashcourse para C5
